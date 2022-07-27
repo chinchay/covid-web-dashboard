@@ -2,7 +2,7 @@
 
 This is a web dashboard exploring worldwide Covid cases and vaccination status for the 10 most affected countries.
 
-The [dashboard]() shows statistics for the 10 most affected countries. It also makes in the vaccination evolution for the most affected country and the best country dealing with Covid.
+The [dashboard](https://covid-countries.herokuapp.com/) shows statistics for the 10 most affected countries. It also makes in the vaccination evolution for the most affected country and the best country dealing with Covid.
 
 ## Libraries used for deployment
 
